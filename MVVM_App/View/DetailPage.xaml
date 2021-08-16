@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MVVM_App.View.DetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="{Binding Avatar}" HeightRequest="200" WidthRequest="200"/>
+            <Entry Text="{Binding Title, Mode=OneWay}" TextColor="Purple" x:Name="EditTitle"/>
+            <Label Text="{Binding Title}" TextColor="Black"/>
+            <Label Text="{Binding Description}" />
+            <Button Text="Speak" x:Name="ButtonSpeak" Clicked="ButtonSpeak_Clicked"/>
+            <Button Text="Go to the web" x:Name="ButtonWeb" Clicked="ButtonWeb_Clicked"/>
+            <Button Text="Save" x:Name="ButtonSave" Clicked="ButtonSave_Clicked"/>
+            <Button Text="Return" x:Name="ButtonRet" Clicked="ButtonRet_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

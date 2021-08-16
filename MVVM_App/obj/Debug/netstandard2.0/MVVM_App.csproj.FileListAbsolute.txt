@@ -1,0 +1,16 @@
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\bin\Debug\netstandard2.0\MVVM_App.dll.config
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\bin\Debug\netstandard2.0\MVVM_App.deps.json
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\bin\Debug\netstandard2.0\MVVM_App.dll
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\bin\Debug\netstandard2.0\ref\MVVM_App.dll
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\bin\Debug\netstandard2.0\MVVM_App.pdb
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.csproj.App.config
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.csprojAssemblyReference.cache
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\View\DetailPage.xaml.g.cs
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\View\ListadoPagina.xaml.g.cs
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.AssemblyInfoInputs.cache
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.AssemblyInfo.cs
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.dll
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\ref\MVVM_App.dll
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\MVVM_App.pdb
+D:\MOBILE DEVICE PROJECTS\MVVM_App\MVVM_App\obj\Debug\netstandard2.0\XamlC.stamp
